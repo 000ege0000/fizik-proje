@@ -1,0 +1,31 @@
+﻿div{
+text-align: center;
+}
+#kapak{
+height: 970px;
+width: 75%;
+border-radius: 5px;
+}
+#sayfa-1{
+border-style: solid;
+border-width: 2px;
+border-color: black;
+margin-right: 125px;
+margin-left: 125px; 
+border-radius: 5px;
+background-image:url(proje-resim-2.jpg);
+}
+p{
+font-family:  sans-serif;
+font-size: 16px;
+}
+#sayfa-2{
+border-style: solid;
+border-width: 2px;
+border-color: black;
+margin-right: 125px;
+margin-left: 125px; 
+border-radius: 5px;
+/* background-image:url(proje-resim-?.jpg); */
+
+}
