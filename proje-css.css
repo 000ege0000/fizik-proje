@@ -1,19 +1,27 @@
 ﻿div{
 text-align: center;
+
 }
 #kapak{
-height: 970px;
-width: 75%;
+height: 731px;
+width: 694px;
+border-style: solid;
+border-width: 2px;
+margin-left: 15%;
+margin-right: 15%;
 border-radius: 5px;
+
+position: static;
+
 }
 #sayfa-1{
 border-style: solid;
 border-width: 2px;
 border-color: black;
-margin-right: 125px;
-margin-left: 125px; 
+margin-right: 15%;
+margin-left: 15%; 
 border-radius: 5px;
-background-image:url(IMG_0963.jpg);
+
 }
 p{
 font-family:  sans-serif;
@@ -23,9 +31,13 @@ font-size: 16px;
 border-style: solid;
 border-width: 2px;
 border-color: black;
-margin-right: 125px;
-margin-left: 125px; 
+margin-left: 15%;
+margin-right: 15%;
 border-radius: 5px;
-/* background-image:url(proje-resim-?.jpg); */
 
+
+}
+#resim-0{
+width: 50%;
+height: 50%;
 }
